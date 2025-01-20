@@ -15,7 +15,7 @@ git clone https://github.com/harshnema93/CPU-Schedular.git
 
 
 Navigate to the project directory::
-cd CPU-Process-Scheduling/src
+cd java CPU_Scheduler
  
 Compile the Java files::
 javac *.java
