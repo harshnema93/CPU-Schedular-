@@ -12,10 +12,14 @@ Priority Scheduling: Processes are executed based on priority. The process with 
 How to Use
 Clone the repository:
 git clone https://github.com/harshnema93/CPU-Schedular.git
+
+
 Navigate to the project directory::
 cd CPU-Process-Scheduling/src
  
 Compile the Java files::
 javac *.java
+
+
 Run the program:
 java CPU_Scheduler
