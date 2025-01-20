@@ -11,7 +11,7 @@ Round Robin (RR): Each process is assigned a fixed time slice or quantum and is 
 Priority Scheduling: Processes are executed based on priority. The process with the highest priority is selected for execution first. If two processes have the same priority, the one that arrived first is executed first.
 How to Use
 Clone the repository:
-git clone https://github.com/SHUBH11102001/CPU-Process-Scheduling.git
+git clone https://github.com/harshnema93/CPU-Schedular.git
 Navigate to the project directory::
 cd CPU-Process-Scheduling/src
  
