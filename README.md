@@ -9,17 +9,3 @@ Shortest Job First (SJF): The process with the shortest burst time is selected f
 Shortest Remaining Time First (SRTF): A preemptive version of SJF, where the process with the shortest remaining burst time is executed next.
 Round Robin (RR): Each process is assigned a fixed time slice or quantum and is executed in a cyclic order.
 Priority Scheduling: Processes are executed based on priority. The process with the highest priority is selected for execution first. If two processes have the same priority, the one that arrived first is executed first.
-How to Use
-Clone the repository:
-git clone https://github.com/harshnema93/CPU-Schedular.git
-
-
-Navigate to the project directory::
-cd java CPU_Scheduler
- 
-Compile the Java files::
-javac *.java
-
-
-Run the program:
-java CPU_Scheduler
